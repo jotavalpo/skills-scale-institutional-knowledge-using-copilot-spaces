@@ -9,12 +9,13 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Demo/Review at the end of each sprint or milestone
 
 ## Workflows
-- Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
+- Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Design, In Progress, In Review, QA, Done
 - Pull Request workflow:
   - Small PRs (<= 400 lines when possible)
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+- Confirm cross-role handoffs each sprint using the [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md) (design readiness, QA readiness, analytics instrumentation, documentation updates)
 
 ## Quality & Testing
 - Unit tests for new logic
@@ -38,3 +39,4 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] UX/UI and QA handoff states are visible in the board workflow

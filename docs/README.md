@@ -32,3 +32,4 @@ Para releases, se exige criterios cumplidos, CI OK, release notes y plan de roll
 - [Release and Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md)

@@ -11,16 +11,21 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
 - Passing CI and security scans
+- QA signoff completed (or explicit risk waiver documented)
 - Release notes drafted
+- Technical Writer review completed for release notes and user-facing docs
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Cross-role release readiness reviewed with PM/PdM via the [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md)
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
+- [ ] QA signoff recorded before production deploy
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
+- [ ] Release notes/doc updates published and shared
 - [ ] Announce release to stakeholders and support
 
 ## Rollback & Incident Playbook
