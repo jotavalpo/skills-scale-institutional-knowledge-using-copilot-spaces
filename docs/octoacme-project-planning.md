@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Plan cross-functional deliverables for UX/UI, QA, Data, Technical Writing, and Customer Success using the [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md)
 
 ## Backlog Item Template
 - Title:
@@ -38,6 +39,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
+- [ ] UX/UI design inputs (wireframes/flows) linked to scoped items
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] KPI instrumentation and reporting needs defined
+- [ ] Documentation and release communication needs captured

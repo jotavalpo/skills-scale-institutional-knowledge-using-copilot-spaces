@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Cross-functional role map and required touchpoints (see [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md))
 
 ## Project One-pager Template
 - Project name:
@@ -32,6 +33,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Required cross-functional roles identified (UX/UI, QA, Data, Docs, Customer Success as needed)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
